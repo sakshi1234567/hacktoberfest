@@ -6,7 +6,7 @@ Anyone can contribute to this repository by adding any useful information as you
 Follow the instructions given below to be a part of this.
 
 
-## Instructions
+## Instructions:
 
 1. Fork this Repository.
 
@@ -42,7 +42,7 @@ git push origin <your-branch-name>.
 You can learn about Markdown Syntax [here](https://guides.github.com/features/mastering-markdown/).
 
 
-## Tasks
+## Tasks:
 
 #### 1. Add your Name
 
