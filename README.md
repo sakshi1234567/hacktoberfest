@@ -6,7 +6,7 @@ Anyone can contribute to this repository by adding any useful information as you
 Follow the instructions given below to be a part of this.
 
 
-## Instructions
+## Instructions:
 
 1. Fork this Repository.
 
@@ -42,9 +42,9 @@ git push origin <your-branch-name>.
 You can learn about Markdown Syntax [here](https://guides.github.com/features/mastering-markdown/).
 
 
-## Tasks
+## Tasks:
 
-#### 1. Add your Name
+#### 1. Add your Name:
 
 - Append your name along with the link for your Github profile in `Contributors.md` file in the format given below. (Just replace **<name>** with your full name and **<your-username>** with your Github Username). This will help everyone know about your work & contributions.
 
@@ -52,7 +52,7 @@ You can learn about Markdown Syntax [here](https://guides.github.com/features/ma
 * [<name>](https://github.com/<your_github_username>)
 ```
 
-#### 2. Add your Profile.
+#### 2. Add your Profile:
 
 - Add your profile details in a file and name that file in the format of `Your_Name.md`. Add this file in the `Contributors` folder. You can specify anything about your self such as your skills, achievements, projects that you have worked on, your interests, etc.
 You can see a sample profile page format [here](https://github.com/altruistcoder/Make-Pull-Requests/blob/master/Contributors/Rishabh_Aggarwal.md).
